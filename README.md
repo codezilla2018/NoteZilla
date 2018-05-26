@@ -10,5 +10,5 @@ Hey I am Sandun from ITFaC UoM, Since I'm new to the FOSS and now Addicted to it
 Hi, I'm Chamod Shehanka Perera from SLIIT and also FAS WUSL, This is my first FOSS individual hakathon experience so It's really helpful for me because I've learnt a lot of things during this Hakathon. Richful documentation,  contributor guides and so on. Thank you very much for an engaging and motivating few days. Codezilla is awesome.
 
 ### ![Sasika De Silva](https://github.com/sasikadesilva) - SUSL 
-Hi, I'm Sasika De Silva from SUSL and This is my first individual hakathon experience so It's really helpful for me because I've learnt a lot of things during this Hakathon. Thank you very much for an engaging and motivating few days. Codezilla is awesome.Thanks Mozilla Club - UWU to giving me this opportunity .(https://png.icons8.com/ios/1600/facebook-like.png) 
+Hi, I'm Sasika De Silva from SUSL and This is my first individual hakathon experience so It's really helpful for me because I've learnt a lot of things during this Hakathon. Thank you very much for an engaging and motivating few days. Codezilla is awesome.Thanks Mozilla Club - UWU to giving me this opportunity .
 
