@@ -8,3 +8,7 @@ Hey I am Sandun from ITFaC UoM, Since I'm new to the FOSS and now Addicted to it
 
 ### ![Chamod Shehanka](https://github.com/Shehanka) - SLIIT 
 Hi, I'm Chamod Shehanka Perera from SLIIT and also FAS WUSL, This is my first FOSS individual hakathon experience so It's really helpful for me because I've learnt a lot of things during this Hakathon. Richful documentation,  contributor guides and so on. Thank you very much for an engaging and motivating few days. Codezilla is awesome.
+
+### Dhanuka Perera – SLIIT
+
+Hey, I am Dhanuka from SLIIT. This is the first time I have participated a Hackathon like this and as well as my first FOSS contribution. I am very lucky have the opportunity to participate in this Hackathon. I was able to learn many things while working on this project, some are Angular Material UI Framework which is I tried first time, working with Angular and Ionic Frameworks, handle data with Firebase and some best practices of UI design in web and mobile. I enjoyed well by contributing to my FOSS project. I am thankful for the Mozilla Club – UWU for organizing CodeZilla 2018, and you guys did a really awesome good job. 
