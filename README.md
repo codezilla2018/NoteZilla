@@ -29,3 +29,7 @@ Hi I am Nirosh Ubeysinghe from NSBM Green University. First of all I would like 
 
 Hi, I'm Dilusha from Software Engineering, University of Kelaniya. First, I took codezilla as a competition but in the end, it become more than just competition which helps me to gain my skills in different fields. Thanks Mozilla Club – UWU for organizing such event.
 
+### [Kekayan](https://github.com/kekayan) - University of Kelaniya 
+
+Hi, I am kekayan from Software Engineering, University of Kelaniya. This is My first foss competition which helps me to gain various skills and also had some fun . Thanks Mozilla Club – UWU for organizing codezilla.
+
