@@ -2,6 +2,9 @@
 
 ## Write what you learnt from CodeZilla with introduction to yourself!
 
+### [Binoj Ishara Batuwanthudawa](https://github.com/BinojBI) - SUSL 
+Hi, I'm Binoj Ishara Batuwanthudawa from SUSL and I'm also new to the FOSS. Talking about Codezilla hackathon this is a product hackathon which we can rarely see other than idea hackathons. Actually I learnt lot of things about NodeJs, Heroku and API things at first time by making twitter bot during this session. Thanks Mozilla Club give this oppotunity to me and hope to see this kind of events future as well.
+
 ### Sandun Isuru Niraj - University of Moratuwa
 
 Hey I am Sandun from ITFaC UoM, Since I'm new to the FOSS and now Addicted to it. This is my first FOSS contribution hackathon. I've been lot in other hackathons, But I've learn lot of things when working in this Hackathon. New Technologies and Many more. I'm not good UI designer, But I learned lot of things about programming and collaborative works with this awesome hackathon. Thanks Mozilla Club - UWU to giving me this opportunity.
@@ -31,5 +34,6 @@ Hi, I'm Dilusha from Software Engineering, University of Kelaniya. First, I took
 
 
 ### Kasun Chinthaka Piyarathna - University of Moratuwa
+
 Hi, I am Kasun Chinthaka from Faculty of Information Technology, University of Moratuwa.Though I have participated many hackathons, probably, this might be the first OPEN SOURCE PRODUCT DEVELOPMENT HACKATHON which I was able to play. Wow, 50 finals were at the 2nd Round. That was a big competition. I think I have done something to my repository and I am happy now. Thank you very much for the organizing committee for giving us this opportunity and trying work hard to enhance the challenging IT environment in Sri Lanka. 
 
