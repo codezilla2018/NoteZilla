@@ -32,7 +32,8 @@ Hi I am Nirosh Ubeysinghe from NSBM Green University. First of all I would like 
 
 Hi, I'm Dilusha from Software Engineering, University of Kelaniya. First, I took codezilla as a competition but in the end, it become more than just competition which helps me to gain my skills in different fields. Thanks Mozilla Club – UWU for organizing such event.
 
-### [Kekayan](https://github.com/kekayan) - University of Kelaniya 
 
-Hi, I am kekayan from Software Engineering, University of Kelaniya. This is My first foss competition which helps me to gain various skills and also had some fun . Thanks Mozilla Club – UWU for organizing codezilla.
+### Kasun Chinthaka Piyarathna - University of Moratuwa
+
+Hi, I am Kasun Chinthaka from Faculty of Information Technology, University of Moratuwa.Though I have participated many hackathons, probably, this might be the first OPEN SOURCE PRODUCT DEVELOPMENT HACKATHON which I was able to play. Wow, 50 finals were at the 2nd Round. That was a big competition. I think I have done something to my repository and I am happy now. Thank you very much for the organizing committee for giving us this opportunity and trying work hard to enhance the challenging IT environment in Sri Lanka. 
 
