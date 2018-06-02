@@ -5,7 +5,7 @@
 ### [Binoj Ishara Batuwanthudawa](https://github.com/BinojBI) - SUSL 
 Hi, I'm Binoj Ishara Batuwanthudawa from SUSL and I'm also new to the FOSS. Talking about Codezilla hackathon this is a product hackathon which we can rarely see other than idea hackathons. Actually I learnt lot of things about NodeJs, Heroku and API things at first time by making twitter bot during this session. Thanks Mozilla Club give this oppotunity to me and hope to see this kind of events future as well.
 
-### Sandun Isuru Niraj - University of Moratuwa
+### [Sandun Isuru Niraj](https://github.com/Sandun-Isuru-Niraj) - University of Moratuwa
 
 Hey I am Sandun from ITFaC UoM, Since I'm new to the FOSS and now Addicted to it. This is my first FOSS contribution hackathon. I've been lot in other hackathons, But I've learn lot of things when working in this Hackathon. New Technologies and Many more. I'm not good UI designer, But I learned lot of things about programming and collaborative works with this awesome hackathon. Thanks Mozilla Club - UWU to giving me this opportunity.
 
