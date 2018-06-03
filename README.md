@@ -37,3 +37,6 @@ Hi, I'm Dilusha from Software Engineering, University of Kelaniya. First, I took
 
 Hi, I am Kasun Chinthaka from Faculty of Information Technology, University of Moratuwa.Though I have participated many hackathons, probably, this might be the first OPEN SOURCE PRODUCT DEVELOPMENT HACKATHON which I was able to play. Wow, 50 finals were at the 2nd Round. That was a big competition. I think I have done something to my repository and I am happy now. Thank you very much for the organizing committee for giving us this opportunity and trying work hard to enhance the challenging IT environment in Sri Lanka. 
 
+### Oshan Mudannayake | [OshanIvantha](https://github.com/OshanIvantha) | University of Colombo School of Computing
+
+Hi, I am your average geek reading for a CS major at UCSC. I am in my 3rd year now. I had some experience as a developer even before coming to the university. But I never got the chance to actively contribute to the open source projects until this year. I am participating in GSoC as a candidate in CERN-HSF. So CodeZilla would be my second open-source related experience. And I am really happy that I got this chance because I got to learn new things while contributing back to the community. 
