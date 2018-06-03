@@ -40,3 +40,7 @@ Hi, I am Kasun Chinthaka from Faculty of Information Technology, University of M
 ### Oshan Mudannayake | [OshanIvantha](https://github.com/OshanIvantha) | University of Colombo School of Computing
 
 Hi, I am your average geek reading for a CS major at UCSC. I am in my 3rd year now. I had some experience as a developer even before coming to the university. But I never got the chance to actively contribute to the open source projects until this year. I am participating in GSoC as a candidate in CERN-HSF. So CodeZilla would be my second open-source related experience. And I am really happy that I got this chance because I got to learn new things while contributing back to the community. 
+
+### Hishan Indrajith (https://github.com/HishanIndrajith) - University of Peradeniya
+
+Hi, I am Hishan Indrajith from University of Peradeniya. This experiance of OPEN SOURCE PRODUCT DEVELOPMENT HACKATHON was a bit different experiance for me. But I like it. I think this is the new level of hackathons. I am much grateful for the organizers for doing such a thing and letting me and others show their talents. Thank You.
