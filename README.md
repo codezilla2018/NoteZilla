@@ -40,3 +40,7 @@ Hi, I am Kasun Chinthaka from Faculty of Information Technology, University of M
 ### Oshan Mudannayake | [OshanIvantha](https://github.com/OshanIvantha) | University of Colombo School of Computing
 
 Hi, I am your average geek reading for a CS major at UCSC. I am in my 3rd year now. I had some experience as a developer even before coming to the university. But I never got the chance to actively contribute to the open source projects until this year. I am participating in GSoC as a candidate in CERN-HSF. So CodeZilla would be my second open-source related experience. And I am really happy that I got this chance because I got to learn new things while contributing back to the community. 
+
+### Chashika Weerathunga | [chashikajw](https://github.com/chashikajw) | University of Colombo School of Computing
+
+Hi, I am 3rd year Computer Science undergraduate at UCSC. I have participated several kind of hackathons in my uni life, but CodeZilla is my first open source project development hackathon. Hackathon was great and everyone has done a good job here. I m really happy to participate this kind of hackthon and I could learn new things while contributing to the project. Mozilla Campus Club UWU is doing a good work here and keep it up! 
