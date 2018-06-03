@@ -43,4 +43,4 @@ Hi, I am your average geek reading for a CS major at UCSC. I am in my 3rd year n
 
 ### Namila Bandara | [namila007](https://github.com/namila007) | University of Peradeniya
 
-Hi, I'm Namila Bandara from Faculty of Engineering, University of Peradeniya. This is my first contribution to FOSS community and first FOSS hackathon.  I haven't done any JS developing until this project, but thanks to this competition i have learnt so many new areas in web deblopment. Thanks to UWU Mozilla Club for organizing this kind of hackathon.Hoping to see more. :)
+Hi, I'm Namila Bandara from Faculty of Engineering, University of Peradeniya. This is my first contribution to FOSS community and first FOSS hackathon.  I haven't done any JS developing until this project, but thanks to this competition i have learnt so many new areas in web development. Thanks to UWU Mozilla Club for organizing this kind of hackathon.Hope to see more. :)
