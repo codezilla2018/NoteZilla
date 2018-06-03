@@ -40,3 +40,7 @@ Hi, I am Kasun Chinthaka from Faculty of Information Technology, University of M
 ### Oshan Mudannayake | [OshanIvantha](https://github.com/OshanIvantha) | University of Colombo School of Computing
 
 Hi, I am your average geek reading for a CS major at UCSC. I am in my 3rd year now. I had some experience as a developer even before coming to the university. But I never got the chance to actively contribute to the open source projects until this year. I am participating in GSoC as a candidate in CERN-HSF. So CodeZilla would be my second open-source related experience. And I am really happy that I got this chance because I got to learn new things while contributing back to the community. 
+
+### Namila Bandara | [namila007](https://github.com/namila007) | University of Peradeniya
+
+Hi, I'm Namila Bandara from Faculty of Engineering, University of Peradeniya. This is my first contribution to FOSS community and first FOSS hackathon.  I haven't done any JS developing until this project, but thanks to this competition i have learnt so many new areas in web development. Thanks to UWU Mozilla Club for organizing this kind of hackathon.Hope to see more. :)
