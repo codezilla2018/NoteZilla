@@ -40,3 +40,7 @@ Hi, I am Kasun Chinthaka from Faculty of Information Technology, University of M
 ### Oshan Mudannayake | [OshanIvantha](https://github.com/OshanIvantha) | University of Colombo School of Computing
 
 Hi, I am your average geek reading for a CS major at UCSC. I am in my 3rd year now. I had some experience as a developer even before coming to the university. But I never got the chance to actively contribute to the open source projects until this year. I am participating in GSoC as a candidate in CERN-HSF. So CodeZilla would be my second open-source related experience. And I am really happy that I got this chance because I got to learn new things while contributing back to the community. 
+
+### <a href="https://github.com/thilina999">Thilina Dissanayake</a> - IIT 
+
+Hey, I'm Thilina from IIT. CodeZilla 2018 is the first FOSS contribution hackathon which I was able to participate. I learned more about github documentation, contributor guides, NodeJs and API. Thank you Mozilla Club - UWU for organizing this awesome event.
