@@ -37,6 +37,19 @@ Hi, I'm Dilusha from Software Engineering, University of Kelaniya. First, I took
 
 Hi, I am Kasun Chinthaka from Faculty of Information Technology, University of Moratuwa.Though I have participated many hackathons, probably, this might be the first OPEN SOURCE PRODUCT DEVELOPMENT HACKATHON which I was able to play. Wow, 50 finals were at the 2nd Round. That was a big competition. I think I have done something to my repository and I am happy now. Thank you very much for the organizing committee for giving us this opportunity and trying work hard to enhance the challenging IT environment in Sri Lanka. 
 
-### Ruvin Thulana -UOM
+### [Ruvin Thulana](<<<<<<< master
+### [Ruvin Thulana](https://github.com/RuvinT) -UOM
+
+Hey This was a awesome hackathon.I learned lot from this hackthon as I was new to node I learned about node and also I learned lot about API's.When I started this project I thought this was too difficult so I quit from the project. Less than  two days before the end of the hackathon I started it from the begining then I realized this was a cool project and i was addicted to it ,but I was not able to finished project at the given time.As it was interesting I finished my project hosted in heroku and you can get updates of new movies by following my robot at twitter (  https://twitter.com/TOPMOVIE12  ) .Thanks Mozila Club - UWU for giving me this chance and hope to see this type of valuable hackathons in future as well.
+=======
+### Oshan Mudannayake | [OshanIvantha](https://github.com/OshanIvantha) | University of Colombo School of Computing
+
+Hi, I am your average geek reading for a CS major at UCSC. I am in my 3rd year now. I had some experience as a developer even before coming to the university. But I never got the chance to actively contribute to the open source projects until this year. I am participating in GSoC as a candidate in CERN-HSF. So CodeZilla would be my second open-source related experience. And I am really happy that I got this chance because I got to learn new things while contributing back to the community. 
+
+### [Dilan Sachintha Nayanajith](https://github.com/dilanSachi) | University of Moratuwa
+
+Hi all, I am Dilan Sachintha from Department of Computer Science, University of Moratuwa. I am very happy to participate in thi open-source hackathon since I never had such an experience before. This helped me a lot to grasp some new technologies too. And many thanks to the organizers and I look forward to participate in these kinds of events in the future.
+>>>>>>> master
+) -UOM
 
 Hey This was a awesome hackathon.I learned lot from this hackthon as I was new to node I learned about node and also I learned lot about API's.When I started this project I thought this was too difficult so I quit from the project. Less than  two days before the end of the hackathon I started it from the begining then I realized this was a cool project and i was addicted to it ,but I was not able to finished project at the given time.As it was interesting I finished my project hosted in heroku and you can get updates of new movies by following my robot at twitter (  https://twitter.com/TOPMOVIE12  ) .Thanks Mozila Club - UWU for giving me this chance and hope to see this type of valuable hackathons in future as well.
