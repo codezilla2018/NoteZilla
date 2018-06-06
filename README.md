@@ -2,6 +2,10 @@
 
 ## Write what you learnt from CodeZilla with introduction to yourself!
 
+### [Chamath Sandaru Ranasinghe](https://github.com/rexzing) - University of Moratuwa 
+
+Hello, I am a techie (Don't get this too seriously) who is following IT degree at University of Moratuwa. I have some experience in several projects with python, django and rxjs technologies. Although I wanted to contribute in a open source project since the beginning of the last year, I couldn't accomplish it until this hackathon. This is the first time I developed a library in JS so it took some time to get familier with best practices and tools, but it wasn't a waste of time. I really enjoyed working on this project and watching other projects and thier commits. Dear Codezilla organizers, thank you very much for give us this oppertunity to have a great experience. 
+
 ### [Binoj Ishara Batuwanthudawa](https://github.com/BinojBI) - SUSL 
 Hi, I'm Binoj Ishara Batuwanthudawa from SUSL and I'm also new to the FOSS. Talking about Codezilla hackathon this is a product hackathon which we can rarely see other than idea hackathons. Actually I learnt lot of things about NodeJs, Heroku and API things at first time by making twitter bot during this session. Thanks Mozilla Club give this oppotunity to me and hope to see this kind of events future as well.
 
