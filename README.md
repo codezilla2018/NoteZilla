@@ -55,3 +55,7 @@ Hi all, I am Dilan Sachintha from Department of Computer Science, University of 
 
 Hi, I am 3rd year Computer Science undergraduate at UCSC. I have participated several kinds of hackathons in my uni life, but CodeZilla is my first open source project development hackathon. Hackathon was great and everyone has done a good job here. I am really happy to participate this kind of hackthon and I could learn new things while contributing to the project. Mozilla Campus Club UWU is doing a good work here.keep it up! 
 
+### Hirunika Karunathilaka | [HirSK](https://github.com/HirSK) | University of Colombo School of Computing
+
+Hello, I’m Hirunika Karunathilaka from University of Colombo School of Computing.I’m in my 3rd year. This is my first contribution for a FOSS project and I really enjoyed the experience. At first, I hadn’t a big picture of how to develop the project I chose, but then I could learn many things gradually while working on the project. So, my huge thanks goes to Mozilla Club –UWU for organizing this sort of hackathon.
+
