@@ -77,3 +77,7 @@ Hi, I am your average geek reading for a CS major at UCSC. I am in my 3rd year n
 
 Hi, I'm Namila Bandara from Faculty of Engineering, University of Peradeniya. This is my first contribution to FOSS community and first FOSS hackathon.  I haven't done any JS developing until this project, but thanks to this competition i have learnt so many new areas in web deblopment. Thanks to UWU Mozilla Club for organizing this kind of hackathon.Hoping to see more. :)
 
+### <a href="https://github.com/thilina999">Thilina Dissanayake</a> - IIT 
+
+Hey, I'm Thilina from IIT. CodeZilla 2018 is the first FOSS contribution hackathon which I was able to participate. I learned more about github documentation, contributor guides, NodeJs and API. Thank you Mozilla Club - UWU for organizing this awesome event.
+
