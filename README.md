@@ -81,3 +81,7 @@ Hi, I'm Namila Bandara from Faculty of Engineering, University of Peradeniya. Th
 
 Hey, I'm Thilina from IIT. CodeZilla 2018 is the first FOSS contribution hackathon which I was able to participate. I learned more about github documentation, contributor guides, NodeJs and API. Thank you Mozilla Club - UWU for organizing this awesome event.
 
+### [Kekayan](https://github.com/kekayan) - University of Kelaniya 
+
+Hi, I am kekayan from Software Engineering, University of Kelaniya. This is My first foss competition which helps me to gain various skills and also had some fun . Thanks Mozilla Club – UWU for organizing codezilla.
+
