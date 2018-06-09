@@ -55,9 +55,15 @@ Hi, I am Hishan Indrajith from University of Peradeniya. This experiance of OPEN
 
 Hi all, I am Dilan Sachintha from Department of Computer Science, University of Moratuwa. I am very happy to participate in thi open-source hackathon since I never had such an experience before. This helped me a lot to grasp some new technologies too. And many thanks to the organizers and I look forward to participate in these kinds of events in the future.
 
+
+### [Ruvin Thulana](https://github.com/RuvinT) -UOM
+
+Hey This was a awesome hackathon.I learned lot from this hackthon as I was new to node I learned about node and also I learned lot about API's.When I started this project I thought this was too difficult so I quit from the project. Less than  two days before the end of the hackathon I started it from the begining then I realized this was a cool project and i was addicted to it ,but I was not able to finished project at the given time.As it was interesting I finished my project hosted in heroku and you can get updates of new movies by following my robot at twitter (  https://twitter.com/TOPMOVIE12  ) .Thanks Mozila Club - UWU for giving me this chance and hope to see this type of valuable hackathons in future as well.
+
 ### Chashika Weerathunga | [chashikajw](https://github.com/chashikajw) | University of Colombo School of Computing
 
 Hi, I am 3rd year Computer Science undergraduate at UCSC. I have participated several kinds of hackathons in my uni life, but CodeZilla is my first open source project development hackathon. Hackathon was great and everyone has done a good job here. I am really happy to participate this kind of hackthon and I could learn new things while contributing to the project. Mozilla Campus Club UWU is doing a good work here.keep it up! 
+
 
 ### Hirunika Karunathilaka | [HirSK](https://github.com/HirSK) | University of Colombo School of Computing
 
@@ -66,6 +72,5 @@ Hello, I’m Hirunika Karunathilaka from University of Colombo School of Computi
 ### Oshan Mudannayake | [OshanIvantha](https://github.com/OshanIvantha) | University of Colombo School of Computing	
  	 
 Hi, I am your average geek reading for a CS major at UCSC. I am in my 3rd year now. I had some experience as a developer even before coming to the university. But I never got the chance to actively contribute to the open source projects until this year. I am participating in GSoC as a candidate in CERN-HSF. So CodeZilla would be my second open-source related experience. And I am really happy that I got this chance because I got to learn new things while contributing back to the community. 
-
 
 
