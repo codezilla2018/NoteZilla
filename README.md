@@ -63,9 +63,9 @@ Hi, I am 3rd year Computer Science undergraduate at UCSC. I have participated se
 
 Hello, I’m Hirunika Karunathilaka from University of Colombo School of Computing.I’m in my 3rd year. This is my first contribution for a FOSS project and I really enjoyed the experience. At first, I hadn’t a big picture of how to develop the project I chose, but then I could learn many things gradually while working on the project. So, my huge thanks goes to Mozilla Club –UWU for organizing this sort of hackathon.
 
--### Oshan Mudannayake | [OshanIvantha](https://github.com/OshanIvantha) | University of Colombo School of Computing	
+### Oshan Mudannayake | [OshanIvantha](https://github.com/OshanIvantha) | University of Colombo School of Computing	
  	 
--Hi, I am your average geek reading for a CS major at UCSC. I am in my 3rd year now. I had some experience as a developer even before coming to the university. But I never got the chance to actively contribute to the open source projects until this year. I am participating in GSoC as a candidate in CERN-HSF. So CodeZilla would be my second open-source related experience. And I am really happy that I got this chance because I got to learn new things while contributing back to the community. 
+Hi, I am your average geek reading for a CS major at UCSC. I am in my 3rd year now. I had some experience as a developer even before coming to the university. But I never got the chance to actively contribute to the open source projects until this year. I am participating in GSoC as a candidate in CERN-HSF. So CodeZilla would be my second open-source related experience. And I am really happy that I got this chance because I got to learn new things while contributing back to the community. 
 
 
 
