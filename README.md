@@ -41,9 +41,10 @@ Hi, I'm Dilusha from Software Engineering, University of Kelaniya. First, I took
 
 Hi, I am Kasun Chinthaka from Faculty of Information Technology, University of Moratuwa.Though I have participated many hackathons, probably, this might be the first OPEN SOURCE PRODUCT DEVELOPMENT HACKATHON which I was able to play. Wow, 50 finals were at the 2nd Round. That was a big competition. I think I have done something to my repository and I am happy now. Thank you very much for the organizing committee for giving us this opportunity and trying work hard to enhance the challenging IT environment in Sri Lanka. 
 
-### Oshan Mudannayake | [OshanIvantha](https://github.com/OshanIvantha) | University of Colombo School of Computing
 
-Hi, I am your average geek reading for a CS major at UCSC. I am in my 3rd year now. I had some experience as a developer even before coming to the university. But I never got the chance to actively contribute to the open source projects until this year. I am participating in GSoC as a candidate in CERN-HSF. So CodeZilla would be my second open-source related experience. And I am really happy that I got this chance because I got to learn new things while contributing back to the community. 
+### [Ruvin Thulana](https://github.com/RuvinT) -UOM
+
+Hey This was a awesome hackathon.I learned lot from this hackthon as I was new to node I learned about node and also I learned lot about API's.When I started this project I thought this was too difficult so I quit from the project. Less than  two days before the end of the hackathon I started it from the begining then I realized this was a cool project and i was addicted to it ,but I was not able to finished project at the given time.As it was interesting I finished my project hosted in heroku and you can get updates of new movies by following my robot at twitter (  https://twitter.com/TOPMOVIE12  ) .Thanks Mozila Club - UWU for giving me this chance and hope to see this type of valuable hackathons in future as well.
 
 
 ### Hishan Indrajith (https://github.com/HishanIndrajith) - University of Peradeniya
@@ -61,5 +62,6 @@ Hi, I am 3rd year Computer Science undergraduate at UCSC. I have participated se
 ### Hirunika Karunathilaka | [HirSK](https://github.com/HirSK) | University of Colombo School of Computing
 
 Hello, I’m Hirunika Karunathilaka from University of Colombo School of Computing.I’m in my 3rd year. This is my first contribution for a FOSS project and I really enjoyed the experience. At first, I hadn’t a big picture of how to develop the project I chose, but then I could learn many things gradually while working on the project. So, my huge thanks goes to Mozilla Club –UWU for organizing this sort of hackathon.
+
 
 
