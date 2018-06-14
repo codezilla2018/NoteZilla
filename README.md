@@ -85,3 +85,7 @@ Hey, I'm Thilina from IIT. CodeZilla 2018 is the first FOSS contribution hackath
 
 Hi, I am kekayan from Software Engineering, University of Kelaniya. This is My first foss competition which helps me to gain various skills and also had some fun . Thanks Mozilla Club – UWU for organizing codezilla.
 
+### Jinadi Yasiruka | [jinyyash](https://github.com/jinyyash) | University of Colombo School of Computing
+
+Hi, I am 2rd-year Computer Science undergraduate at UCSC. I have participated several hackathons, But this might be the first OPEN SOURCE PRODUCT DEVELOPMENT HACKATHON. I would like to thank Mozilla campus club - UWU for giving this great opportunity.
+
